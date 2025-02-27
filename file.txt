@@ -1,6 +1,12 @@
 Change 1 in branch1
 Change 2 in branch1
 Change 3 in branch1
+<<<<<<< HEAD
 Change 4 in branch1
 Change 5 in branch1
 Change 6 in branch1
+=======
+Change 7 in branch1
+Change 8 in branch1
+Change 9 in branch1
+>>>>>>> 55b60602c64b849de40a8c4ee223d206ea717ff6
